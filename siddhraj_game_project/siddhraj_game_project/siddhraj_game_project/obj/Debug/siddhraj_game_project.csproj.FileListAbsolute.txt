@@ -1,0 +1,16 @@
+c:\users\pcd\documents\visual studio 2012\Projects\siddhraj_game_project\siddhraj_game_project\bin\Debug\siddhraj_game_project.exe.config
+c:\users\pcd\documents\visual studio 2012\Projects\siddhraj_game_project\siddhraj_game_project\bin\Debug\siddhraj_game_project.exe
+c:\users\pcd\documents\visual studio 2012\Projects\siddhraj_game_project\siddhraj_game_project\bin\Debug\siddhraj_game_project.pdb
+c:\users\pcd\documents\visual studio 2012\Projects\siddhraj_game_project\siddhraj_game_project\obj\Debug\siddhraj_game_project.csprojResolveAssemblyReference.cache
+c:\users\pcd\documents\visual studio 2012\Projects\siddhraj_game_project\siddhraj_game_project\obj\Debug\siddhraj_game_project.Form1.resources
+c:\users\pcd\documents\visual studio 2012\Projects\siddhraj_game_project\siddhraj_game_project\obj\Debug\siddhraj_game_project.Form2.resources
+c:\users\pcd\documents\visual studio 2012\Projects\siddhraj_game_project\siddhraj_game_project\obj\Debug\siddhraj_game_project.Form3.resources
+c:\users\pcd\documents\visual studio 2012\Projects\siddhraj_game_project\siddhraj_game_project\obj\Debug\siddhraj_game_project.Form4.resources
+c:\users\pcd\documents\visual studio 2012\Projects\siddhraj_game_project\siddhraj_game_project\obj\Debug\siddhraj_game_project.Form5.resources
+c:\users\pcd\documents\visual studio 2012\Projects\siddhraj_game_project\siddhraj_game_project\obj\Debug\siddhraj_game_project.Form6.resources
+c:\users\pcd\documents\visual studio 2012\Projects\siddhraj_game_project\siddhraj_game_project\obj\Debug\siddhraj_game_project.Form7.resources
+c:\users\pcd\documents\visual studio 2012\Projects\siddhraj_game_project\siddhraj_game_project\obj\Debug\siddhraj_game_project.Form8.resources
+c:\users\pcd\documents\visual studio 2012\Projects\siddhraj_game_project\siddhraj_game_project\obj\Debug\siddhraj_game_project.Properties.Resources.resources
+c:\users\pcd\documents\visual studio 2012\Projects\siddhraj_game_project\siddhraj_game_project\obj\Debug\siddhraj_game_project.csproj.GenerateResource.Cache
+c:\users\pcd\documents\visual studio 2012\Projects\siddhraj_game_project\siddhraj_game_project\obj\Debug\siddhraj_game_project.exe
+c:\users\pcd\documents\visual studio 2012\Projects\siddhraj_game_project\siddhraj_game_project\obj\Debug\siddhraj_game_project.pdb

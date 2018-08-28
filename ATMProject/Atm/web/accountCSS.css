@@ -1,0 +1,61 @@
+root 
+{ 
+    display: block;
+}
+
+body
+{
+    background-image : url("background.jpg") ;
+    
+}
+
+table{
+    padding-top: 10%;
+}
+#d1{
+    font-size: 30px;
+    position: fixed;
+    color :  tomato;
+}
+
+#d2{
+    position:  absolute;
+    left : 30px;
+    border : 1px solid red;
+    
+}
+table
+{
+    color : yellow ;
+    font-size: 40px ;
+}
+a{
+    text-decoration : none;
+}
+td{
+    
+    border : 3px solid grey ;
+    background-color: azure ;
+    text-align: center;
+    border-radius : 50px;
+}
+.first:hover
+{
+    font-size: 45px;
+    text-align: center;
+    
+}
+ h3
+ {
+     color : red;
+     font-size: 30px;
+     
+ }
+ 
+ #d2:hover
+ {
+    color : red;
+    font-size: 45px;
+    text-align: center;
+     
+ }

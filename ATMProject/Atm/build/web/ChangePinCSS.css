@@ -1,0 +1,46 @@
+root { 
+    display: block;
+}
+input
+{
+    border: none;
+    width:250px;
+    height: 30px;
+    background: transparent;
+    font-size: 15px;
+}
+input[type="text"]
+{
+    font-size: 30px;
+    border-bottom: 1px solid black;
+    color: red;
+}
+body{
+    background-image: url("background.jpg");
+}
+td
+{
+    font-size: 40px;
+    padding: 5px;
+    color: chocolate;
+        
+}
+input[type="submit"]
+{
+    font-size: 20px;
+    background: grey;
+    border: 1px solid black;
+    cursor: pointer
+}
+input[type="submit"]:hover
+{
+    background: grey;
+    color:red;
+}
+h1{
+     background: maroon;
+    text-align : center;
+    Color : gold;
+    font-size: 50px;
+}
+
